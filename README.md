@@ -11,3 +11,4 @@ Ya que esto solo es la prueba de funcionamiento se muestran los datos de los bar
 ![alt text](https://github.com/FerminOrtega/hundirlaflota/blob/master/README%20IMG.png?raw=true)
 
 Se ha añadido primera version del archivo para la funcionalidad addColor
+Creada la funcionalidad para rotar piezas
